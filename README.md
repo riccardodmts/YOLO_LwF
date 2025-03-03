@@ -13,6 +13,7 @@ This work aims to let the YOLOv8 object detector to learn incrementally new clas
 
 ## Results
 
+<img src='./imgs/table_res.png'  width="700" >
 
 ## Setup
 In addition to PyTorch, install the extra requirements by following these steps:
